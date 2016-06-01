@@ -3,6 +3,8 @@ Neosnippet-snippets
 
 Custom fork of standard snippets repository for
 [neosnippet](https://github.com/Shougo/neosnippet.vim).
+
 [Shougo's original snippets repository](https://github.com/Shougo/neosnippet-snippets)
+
 You can fork or send pull request.
 
